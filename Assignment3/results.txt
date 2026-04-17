@@ -1,0 +1,19 @@
+Time   :2026-03-22 18:07:27
+Numbers:[1, 2, 3]
+Sum    :6
+Subtraction:-4
+Multiplication :6
+Division :0.17
+--------------------Time   :2026-03-22 18:09:18
+Numbers:[1, 2, 3]
+Sum    :6
+Subtraction:-4
+Multiplication :6
+Division :0.16666666666666666
+--------------------Time   :2026-03-25 08:53:08
+Numbers:[1, 4, 5, 10, 15]
+Sum    :35
+Subtraction:-33
+Multiplication :3000
+Division :0.0003333333333333333
+--------------------
